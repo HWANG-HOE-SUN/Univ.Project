@@ -17,13 +17,26 @@ https://github.com/kmangyo/Anomaly_Detection/blob/master/RCode/AnomalyDetection.
 * **황회선**(HWANG-HOE-SUN)
 * **문석진**
 * **박수정**
-* **정석진**(HWANG)
+* **정석진**(js-jin)
 
 * 2) AI기반 전기차 고장 예지 시스템 구축
 * **황회선**(HWANG-HOE-SUN)
+* **장명훈**
+* **이강복**
+* **김준석**
+* **안지수**
+* **전홍배**
 
 * 3) DTW기반 잔여수명 예측 케이스 스터디
 * **황회선**(HWANG-HOE-SUN)
+* **김준석**
+* **이강복**
+* **안지수**
+* **오정림**
+* **장명훈**
+* **전홍배**
 
 * 4) 상권상생 프로젝트
 * **황회선**(HWANG-HOE-SUN)
+* **남유정**
+* **한주엽**
